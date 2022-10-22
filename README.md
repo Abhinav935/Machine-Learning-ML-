@@ -2,12 +2,6 @@
 ## Get started with Machine Learning with Python 
 An engaging introduction to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) with Python
 
-## TL;DR
-- Download all Jupyter Notebooks from repo ([zip-file-download](https://github.com/LearnPythonWithRune/MachineLearningWithPython/archive/refs/heads/main.zip)).
-- Unzip download (main.zip) appropriate place.
-- Launch Ananconda and start JuPyter Notebook ([Install it from here if needed](https://www.anaconda.com/products/individual))
-- Open the first Notebook from download.
-- Start watching the first video lesson ([YouTube](https://youtu.be/pQA6MGsXCNg)).
 
 ## Machine Learning (ML)
 ### Goal of Course
@@ -51,12 +45,7 @@ Worried about whether you have what it takes to complete this course?
 
 ### What level of Python is needed?
 - Some basic knowledge of Python and/or programming is highly recommended.
-    - If you feel lost check out [this **free** Python for beginners course](https://www.learnpythonwithrune.org/learn-python/)
-        - It is structured in 17 lessons
-        - 8 hours of video tutorials
-        - 17 projects taking you from scratch
-        - It includes a [**free** eBook with all concepts](https://www.learnpythonwithrune.org/learn-python/)
-        - It has a [GitHub repository with all examples and projects prepared for you](https://github.com/LearnPythonWithRune/LearnPython)
+   
 - There will be links to help materials when using difficult programming concepts.
 
 ### What about mathematics and statistics?
